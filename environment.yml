@@ -1,8 +1,6 @@
 name: instabot
 channels:
   - defaults
-  - conda-remote
-  - conda-r-remote
 dependencies:
   - asn1crypto=0.24.0
   - ca-certificates=2019.8.28
