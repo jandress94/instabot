@@ -32,9 +32,9 @@ On Mac, press `command + SPACE` to open spotlight search, then type `terminal.ap
 A terminal command prompt should open.
 You now need to navigate to the project directory.
 There are three commands that might be helpful:
-- `pwd`: prints the current working directory (where you currently are in the filesystem).
-- `ls`: prints all the files and directories in the current working directory
-- `cd`: move into a different directory. 
+- `pwd` (or `cd` on Windows): prints the current working directory (where you currently are in the filesystem).
+- `ls` (or `dir` on Windows): prints all the files and directories in the current working directory
+- `cd ____`: move into a different directory. 
 The command `cd xyz` will move you into the `xyz` directory (assuming one exists in the current working directory).
 The command `cd ..` will move you one step up into the parent directory.
 
