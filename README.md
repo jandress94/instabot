@@ -7,7 +7,8 @@ Instagram Bot to Bulk Follow a List of Usernames
 ### 1. Download external software
 
 #### Minicoda
-Install the Python 3.7 version of Miniconda for your operating system from this [page](https://docs.conda.io/en/latest/miniconda.html)
+Install the Python 3.7 version of Miniconda for your operating system from this [page](https://docs.conda.io/en/latest/miniconda.html).
+You'll know it has been downloaded and installed correctly if you can open a terminal command prompt and the command `conda` prints out information about conda, rather than complaining that conda isn't recognized as a command.
 
 #### Chromedriver
 Go to this [page](https://sites.google.com/a/chromium.org/chromedriver/home) and click to view the "Latest stable release".
