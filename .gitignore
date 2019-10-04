@@ -1,3 +1,8 @@
+.DS_STORE
+chromedriver
+insta_accounts.txt
+processed_usernames.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

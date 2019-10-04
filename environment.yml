@@ -1,0 +1,36 @@
+name: instabot
+channels:
+  - defaults
+  - conda-remote
+  - conda-r-remote
+dependencies:
+  - asn1crypto=0.24.0
+  - ca-certificates=2019.8.28
+  - certifi=2019.9.11
+  - cffi=1.12.3
+  - cryptography=2.7
+  - idna=2.8
+  - libcxx=4.0.1
+  - libcxxabi=4.0.1
+  - libedit=3.1.20181209
+  - libffi=3.2.1
+  - ncurses=6.1
+  - openssl=1.1.1d
+  - pip=19.2.3
+  - pycparser=2.19
+  - pyopenssl=19.0.0
+  - pysocks=1.7.1
+  - python=3.7.4
+  - readline=7.0
+  - selenium=3.141.0
+  - setuptools=41.2.0
+  - six=1.12.0
+  - sqlite=3.29.0
+  - tk=8.6.8
+  - tqdm=4.36.1
+  - urllib3=1.25.6
+  - wheel=0.33.6
+  - xz=5.2.4
+  - zlib=1.2.11
+prefix: /Users/jim/anaconda3/envs/instabot
+
